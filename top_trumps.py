@@ -60,7 +60,7 @@ if chosen_stat == 'height':
 
 # 5. record result to the file
 with open('tournament.txt', 'a') as text_write:
-    add = 'winner: {}'.format(winner) + ' ; comparing: {}'.format(chosen_stat) + 'score: {}'.format(
-        stat_user[chosen_stat]) + ': {}'.format(stat_comp[chosen_stat])
+    add = 'winner: {}'.format(winner) + ' ; comparing: {}'.format(chosen_stat) + ' ; score: {}'.format(
+        stat_user[chosen_stat]) + ' : {} \n'.format(stat_comp[chosen_stat])
     text_write.write(add)
     text_write.close()
