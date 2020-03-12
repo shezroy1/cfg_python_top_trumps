@@ -1,1 +1,3 @@
-winner: user ; comparing: heightscore: 17: 17winner: user ; comparing: weightscore: 800: 450winner: computer ; comparing: weightscore: 855: 950
+winner: computer ; comparing: height ; score: 6 : 15 
+winner: user ; comparing: height ; score: 15 : 10 
+winner: computer ; comparing: weight ; score: 100 : 800 
