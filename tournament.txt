@@ -1,3 +1,8 @@
 winner: computer ; comparing: height ; score: 6 : 15 
 winner: user ; comparing: height ; score: 15 : 10 
 winner: computer ; comparing: weight ; score: 100 : 800 
+winner: user ; comparing: weight ; score: 705 : 360 
+winner: computer ; comparing: weight ; score: 350 : 390 
+winner: user ; comparing: height ; score: 17 : 6 
+winner: computer ; comparing: height ; score: 8 : 9 
+winner: user ; comparing: weight ; score: 1200 : 450 
